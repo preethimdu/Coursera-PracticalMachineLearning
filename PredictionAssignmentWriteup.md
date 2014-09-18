@@ -7,6 +7,8 @@ The first part is the declaration of the package which will be used. In addition
 Note : to be reproductible, I also set the seed value.
 
 
+
+
 ```r
 options(warn=-1)
 library(caret)
